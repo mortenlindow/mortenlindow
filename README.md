@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mortenlindow
-- 👀 I’m interested in agile coaching, software and models for drug discovery, RNA targeted therapeutics
-- 🌱 I’m currently (2021) learning how to be a better agile coach, while helping drawing up a strategy for nucleic acid based medicine
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -> LinkedIn
+- 👀 I’m interested in pharmaceutical data science, organizational development and evolution of culture
+- 🌱 I’m currently (2025) leading a center for pharmaceutical data science education at the University of Copenhagen  
+
 
 
 <!---
