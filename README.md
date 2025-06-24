@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mortenlindow
-- 👀 I’m interested in pharmaceutical data science, organizational development and evolution of culture
+- 👀 I’m interested in RNA therapeutics, pharmaceutical data science, organizational development and evolution of culture
 - 🌱 I’m currently (2025) leading a center for pharmaceutical data science education at the University of Copenhagen  
 
 
